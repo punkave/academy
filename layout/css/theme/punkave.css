@@ -115,11 +115,19 @@ body {
 }
 
 .surrogate .reveal .state-background {
-  background-image: url(http://images1.fanpop.com/images/quiz/27729_1215375020961_500_278.jpg);
+  background-image: url(../../img/surrogate.jpg);
   opacity:.6;
 }
 
+.real .reveal .state-background {
+  background-image: url(../../img/real.jpg);
+  opacity:.8;
+}
 
+.box .reveal .state-background {
+  background-image: url(../../img/box.jpg);
+  opacity:.8;
+}
 
 
 
