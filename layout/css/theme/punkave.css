@@ -116,12 +116,12 @@ body {
 
 .surrogate .reveal .state-background {
   background-image: url(../../img/surrogate.jpg);
-  opacity:.6;
+  opacity:.9;
 }
 
 .real .reveal .state-background {
   background-image: url(../../img/real.jpg);
-  opacity:.8;
+  opacity:.9;
 }
 
 .box .reveal .state-background {
